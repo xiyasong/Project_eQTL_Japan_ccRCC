@@ -4,7 +4,7 @@
 rm(list=ls())
 
 library(survival)
-setwd("/Users/mstermo/eQTL-continue/eQTL-continue-survival-analysis")
+setwd("/Users/xiyas/eQTL-continue/eQTL-continue-survival-analysis")
 source('Cheng_toolbox_beta_gene.R')
 
 cancerType<-"ccRCC"
